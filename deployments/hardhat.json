@@ -1,0 +1,46 @@
+{
+  "network": "hardhat",
+  "chainId": 31337,
+  "deployer": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+  "deployedAt": "2026-11-27T07:47:26.731Z",
+  "contracts": {
+    "MetaPayGateway": "0x9A676e781A523b5d0C0e43731313A708CB607508",
+    "MetaPaySwapRouter": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+    "WMEC": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "mUSDT": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+    "mUSDC": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+    "IDRC": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+  },
+  "tokens": {
+    "MEC": {
+      "symbol": "MEC",
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "isNative": true
+    },
+    "WMEC": {
+      "symbol": "WMEC",
+      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+      "decimals": 18,
+      "isNative": false
+    },
+    "mUSDT": {
+      "symbol": "mUSDT",
+      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+      "decimals": 6,
+      "isNative": false
+    },
+    "mUSDC": {
+      "symbol": "mUSDC",
+      "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+      "decimals": 6,
+      "isNative": false
+    },
+    "IDRC": {
+      "symbol": "IDRC",
+      "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+      "decimals": 2,
+      "isNative": false
+    }
+  }
+}

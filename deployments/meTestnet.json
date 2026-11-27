@@ -1,0 +1,46 @@
+{
+  "network": "meTestnet",
+  "chainId": 400,
+  "deployer": "0xaa47500F55FCf6b40fb18B036f2B4446A9D510c0",
+  "deployedAt": "2026-11-27T10:40:12.003Z",
+  "contracts": {
+    "MetaPayGateway": "0xd407227189D8D78E5FcAa61A9B64052A5555DAf6",
+    "MetaPaySwapRouter": "0x66b0F06a3960f31B0C6a7132917fF12cD6e37Eb2",
+    "WMEC": "0x73bc53fB104CA39E5FBfaf870ed185C94D81893E",
+    "mUSDT": "0x427C9625E57d6c47d2850a2C5366AB094515C2C3",
+    "mUSDC": "0x61F2D51798C9644c9A42BD13fa3f13846B53aac8",
+    "IDRC": "0xb4d995c522e368360613E913160A1ACF5b1bdb1c"
+  },
+  "tokens": {
+    "MEC": {
+      "symbol": "MEC",
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "isNative": true
+    },
+    "WMEC": {
+      "symbol": "WMEC",
+      "address": "0x73bc53fB104CA39E5FBfaf870ed185C94D81893E",
+      "decimals": 18,
+      "isNative": false
+    },
+    "mUSDT": {
+      "symbol": "mUSDT",
+      "address": "0x427C9625E57d6c47d2850a2C5366AB094515C2C3",
+      "decimals": 6,
+      "isNative": false
+    },
+    "mUSDC": {
+      "symbol": "mUSDC",
+      "address": "0x61F2D51798C9644c9A42BD13fa3f13846B53aac8",
+      "decimals": 6,
+      "isNative": false
+    },
+    "IDRC": {
+      "symbol": "IDRC",
+      "address": "0xb4d995c522e368360613E913160A1ACF5b1bdb1c",
+      "decimals": 2,
+      "isNative": false
+    }
+  }
+}
